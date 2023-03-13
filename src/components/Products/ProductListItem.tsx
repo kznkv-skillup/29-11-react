@@ -47,6 +47,7 @@ const ProductListItem = ({
                 <div className="product-price">
                     Price: <strong>${price}</strong>
                 </div>
+
                 <div className="product-quantity">
                     <Button
                         variant="outlined"
